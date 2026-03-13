@@ -52,12 +52,4 @@ AiRepair下载地址：https://www.pylike.com/static/airepair/AiRepair-V2.1.1.zi
 
 ### 图片去水印过程演示
 
-<video src="https://www.pyhint.com/static/images/demo.mp4" 
-       width="960" 
-       controls 
-       autoplay 
-       loop 
-       muted 
-       playsinline>
-  浏览器不支持视频播放。
-</video>
+![输入图片说明](demo.gif)

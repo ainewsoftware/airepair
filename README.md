@@ -42,7 +42,7 @@ AiRepair下载地址：https://www.pylike.com/static/airepair/AiRepair-V2.1.1.zi
 
 ### 打开AiRepair
 
-![双击Repair.bat启动](3.jpg)
+![双击Repair.bat启动](https://foruda.gitee.com/images/1773368060393613432/358f67ec_16789866.jpeg "3.jpg")
 
 下载后得到AiRepair-V2.1.1.zip压缩包。解压压缩包后出现一个名为“AiRepair”的文件夹，所有的项目文件都在里面，且该“AiRepair”文件夹可以被复制存放到电脑的任意位置。不需要任何安装和配置，也不要随意修改“AiRepair”文件夹内的组件。点击进入“AiRepair”文件夹后，里面有个Repair.bat启动文件，鼠标左键双击运行Repair.bat就可以打开AiRepair图像修复工具。
 

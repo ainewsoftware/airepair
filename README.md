@@ -34,7 +34,7 @@ AiRepair下载地址：https://www.pylike.com/static/airepair/AiRepair-V2.1.1.zi
 
  **注意：** 用任意浏览器访问上面的网址，即可下载。
 
- **下载方法详解：** 直接在浏览器地址栏内输入“https://www.pylike.com/static/airepair/AiRepair-V2.1.1.zip”，点击键盘的Enter回车键后，浏览器会直接开始下载。这里需要注意的是，有的浏览器会弹出一个下载框，询问你是否保存该文件，点击“保存”按钮后会自动将文件保存在浏览器默认的“下载”文件夹中，如下图所示。
+ **下载方法详解：** 直接在浏览器地址栏内输入“`https://www.pylike.com/static/airepair/AiRepair-V2.1.1.zip`”，点击键盘的Enter回车键后，浏览器会直接开始下载。这里需要注意的是，有的浏览器会弹出一个下载框，询问你是否保存该文件，点击“保存”按钮后会自动将文件保存在浏览器默认的“下载”文件夹中，如下图所示。
 
 ![通过浏览器下载](https://foruda.gitee.com/images/1773367918202192519/2b13f44c_16789866.jpeg "1.jpg")
 

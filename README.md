@@ -1,6 +1,6 @@
 # AI图像修复一键去除水印,使模糊图片变清晰放大工具AiRepair基于Python的Django模拟IOPaint采用先进的LaMa修复模型
 
-#### 什么是AiRepair？
+### 什么是AiRepair？
 
  **AiRepair** 是一款‌基于最先进AI模型的图像修复工具，支持一键去除图片中的水印、人物、文字、缺陷、瑕疵、遮挡物等任何您不想要的内容，通过AI消除后，AI会自动分析消除区域周围的环境，智能填充背景内容，结果不仅自然，而且几乎看不出人工修复的痕迹。同时支持一键使模糊图片变清晰、放大但不失真，还支持批量去除多张图片中的水印，不伤原图，不损画质。
 
@@ -12,7 +12,7 @@ AiRepair提供了一个简单直观的Web操作界面，让用户通过“涂抹
 
 AiRepair图像修复工具的出现，对于电商主图设计、营销海报设计、封面图片设计、广告设计等来说，无疑是一个强大的工具。对于普通用户来说，一键操作即可处理日常照片，轻松达到专业效果。不需要深度学习，也不需要代码，普通用户也能轻松使用。
 
-#### AiRepair功能介绍
+### AiRepair功能介绍
 
  **操作简便：** AiRepair工具使用强大的Python编程语言设计，基于先进的LaMa修复模型，将Python3.8与Django框架集成为一个项目，下载后无需安装、无需联网、开箱即用，模拟IOPaint以简洁直观的Web操作界面，用户不需要专业的手动拼贴、不需要PS操作技巧，通过“涂抹”或者“框选”精确选择消除区域，一键完成专业修复任务。
 
@@ -24,11 +24,11 @@ AiRepair图像修复工具的出现，对于电商主图设计、营销海报设
 
  **涂抹操作：** 直观的涂抹操作方式，像使用橡皮擦一样简单，利用涂抹的方式精确选择消除区域，可实时调整涂抹画笔大小，涂抹结果不满意的话，可随时返回上一步涂抹操作，还可以随时对比原图与处理后的图片，支持多次微调，直到效果满意后再下载。
 
-#### AiRepair下载
+### AiRepair下载
 
  **AiRepair** 提供了一个无需安装、无需联网、开箱即用的AI图像修复工具。一键下载原版项目文件，安全无毒，支持‌在Windows7、Windows8、‌Windows10、‌Windows11电脑操作系统上运行，兼容CPU和GPU两大核心处理器，在CPU设备上也能完成基本的图像处理任务，而在GPU设备上则能获得更快的处理速度。
 
-#### AiRepair下载方法
+### AiRepair下载方法
 
 AiRepair下载地址：https://www.pylike.com/static/airepair/AiRepair-V2.1.1.zip
 
@@ -40,7 +40,7 @@ AiRepair下载地址：https://www.pylike.com/static/airepair/AiRepair-V2.1.1.zi
 
 ![AiRepair-V2.1.1.zip文件](https://foruda.gitee.com/images/1773368007378508248/e45e1814_16789866.jpeg "2.jpg")
 
-#### 打开AiRepair
+### 打开AiRepair
 
 ![双击Repair.bat启动](https://foruda.gitee.com/images/1773368060393613432/358f67ec_16789866.jpeg "3.jpg")
 

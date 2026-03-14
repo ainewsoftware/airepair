@@ -63,3 +63,18 @@ AiRepair下载地址：https://www.pylike.com/static/airepair/AiRepair-V2.1.1.zi
 ![AiRepair首页展示](templates/homepage.jpg)
 
 ![AiRepair操作页面展示](templates/operationpage.jpg)
+
+<h3>【版权与法律声明】</h3>
+<ol>
+<li>用户在使用本软件时，确保上传、处理的素材<strong>具有合法使用权</strong>或<strong>已获得权利人授权</strong>。</li>
+<li>禁止使用本软件从事以下行为：
+<ul>
+<li>禁止去除他人作品的版权水印、平台标识、作者署名；</li>
+<li>禁止改变或删除作品的版权管理信息；</li>
+<li>禁止使用本软件生成、传播侵犯他人著作权或相关权利的内容。</li>
+</ul>
+</li>
+<li>本软件开发者仅提供图像修复技术，不对用户的使用行为或输入内容承担版权责任。</li>
+<li>若用户违反上述条款，一切法律责任由用户自行承担，开发者保留追究相关责任的权利。</li>
+<li>本软件遵守《中华人民共和国著作权法》《信息网络传播权保护条例》及相关国际公约。</li>
+</ol>

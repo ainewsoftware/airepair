@@ -1,0 +1,15 @@
+*.py linguist-detectable=true
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.txt linguist-detectable=false
+*.mp4 linguist-detectable=false
+*.js linguist-detectable=false
+*.md linguist-detectable=false
+*.json linguist-detectable=false
+*.yml linguist-detectable=false
+*.yaml linguist-detectable=false
+*.txt linguist-detectable=false
+*.png linguist-detectable=false
+*.jpg linguist-detectable=false
+*.jpeg linguist-detectable=false
+*.gif linguist-detectable=false

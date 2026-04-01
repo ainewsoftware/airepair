@@ -3,4 +3,6 @@ https://www.pylike.com/static/airepair/AiRepair-V2.1.1.zip
 
 注意：用任意浏览器访问上面的网址，即可下载。
 
-下载方法详解：直接在浏览器地址栏内输入“https://www.pylike.com/static/airepair/AiRepair-V2.1.1.zip”，点击键盘的Enter回车键后，浏览器会直接开始下载。这里需要注意的是，有的浏览器会弹出一个下载框，询问你是否保存该文件，点击“保存”按钮后会自动将文件保存在浏览器默认的“下载”文件夹中。
+下载方法详解：直接在浏览器地址栏内输入https://www.pylike.com/static/airepair/AiRepair-V2.1.1.zip，点击键盘的Enter回车键后，浏览器会直接开始下载。这里需要注意的是，有的浏览器会弹出一个下载框，询问你是否保存该文件，点击“保存”按钮后会自动将文件保存在浏览器默认的“下载”文件夹中。
+
+下载后得到一个AiRepair-V2.1.1.zip压缩包。解压压缩包后出现一个名为“AiRepair”的文件夹，所有的项目文件都在里面，且该“AiRepair”文件夹可以被复制存放到电脑的任意位置。不需要任何安装和配置，也不要随意修改“AiRepair”文件夹内的组件。点击进入“AiRepair”文件夹后，里面有个Repair.bat启动文件，鼠标双击运行Repair.bat就可以打开AiRepair图像修复工具。
